@@ -4,7 +4,7 @@ Este repositório contém a solução para alguns exercícios em Java, que envol
 
 ## Enunciados
 
-Os enunciados dos exercícios podem ser encontrados na pasta `enunciados`.
+Os enunciados dos exercícios podem ser encontrados na pasta `Enunciados`.
 
 ## Soluções
 
