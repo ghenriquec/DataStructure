@@ -89,4 +89,3 @@ public class Exercise1 {
         System.out.printf("Porcentagem de aprovados: %.2f%%", porcentagem);
     }
 }
-
