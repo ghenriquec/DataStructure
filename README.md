@@ -21,7 +21,7 @@ Para executar as soluções, siga as instruções abaixo:
 
 1.  Clone o repositório:
 
-`git clone https://github.com/seu-usuario/enunciados-exercicios-java.git` 
+`git clone https://github.com/ghenriquec/DataStructure.git` 
 
 2.  Importe o projeto para sua IDE Java.
 3.  Abra a classe correspondente ao exercício que deseja executar.
